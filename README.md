@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @trxnt
-- 👀 I’m interested in experience desgin and art
+- 👀 I’m interested in experience design and art
 - 🌱 I’m currently learning JS, Solidity, Python
 
 
