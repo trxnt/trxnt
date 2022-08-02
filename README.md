@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @trxnt
-- 👀 I’m interested in experience design and generative art
-- 🌱 I’m currently learning JS & Solidity
+👀
