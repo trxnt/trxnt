@@ -1,5 +1,4 @@
-# 🌞 
-🌱 Currently learning solidity & js
+# 🌞 Currently learning solidity & js
 
 
 ## 🌐 Socials:
